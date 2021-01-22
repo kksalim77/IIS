@@ -1,0 +1,5 @@
+To use the script: -
+
+1) Install the required role first on a server.
+2) After the role is installed, export the configuration settings from the server manager GUI to an xml file.
+3) Point the path in the script to the xml file saved and run the script.
